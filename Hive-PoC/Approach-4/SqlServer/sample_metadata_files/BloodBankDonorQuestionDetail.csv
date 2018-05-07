@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+BloodBankDonorQuestionDetailId,int,1
+Answers,varchar,0
+BloodBankDonorQuestionId,int,0
+BloodBankDonorQuestionnaireOptionId,int,0
+BloodBankDonorRegistrationId,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

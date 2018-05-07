@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+ClaimMgmtReasonId,int,1
+ClaimMgmtReasonCode,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+ReasonDescription,varchar,0
+ScreenName,varchar,0

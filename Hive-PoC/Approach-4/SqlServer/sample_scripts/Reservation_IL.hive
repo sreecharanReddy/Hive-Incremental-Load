@@ -1,0 +1,14 @@
+create table ss_target.Reservation_stg as
+select ReservationId,AdmissionNumber,AdmissionReasonId,AdmittingConsultantId,BillingClassId,CancellationSendMail,CancellationSendSMS,CancelledById,CancelReasonId,CancelRemark,CreatedById,CreatedTime,DiagnosisId,EntitlementId,ExpectedAdmissionDate,ExpectedLOS,HospitalId,ICDId,IsActive,LastUpdatedTime,ModifyRemark,PatientId,PaymentTypeId,PrevExpectedAdmissionDate,ReservationModifyReasonId,ReservationNumber,ReservationRemarks,ReservationStatusId,ReservationTypeId,ScheduledSurgeryIds,TreatmentTypeId,UpdatedById from
+(select *, ROW_NUMBER() OVER(Partition by ReservationId ORDER BY modified_date desc) As rnk from
+(select ReservationId,'INSERT' as header__operation,cast('1900-01-01' as timestamp) as modified_date,AdmissionNumber,AdmissionReasonId,AdmittingConsultantId,BillingClassId,CancellationSendMail,CancellationSendSMS,CancelledById,CancelReasonId,CancelRemark,CreatedById,CreatedTime,DiagnosisId,EntitlementId,ExpectedAdmissionDate,ExpectedLOS,HospitalId,ICDId,IsActive,LastUpdatedTime,ModifyRemark,PatientId,PaymentTypeId,PrevExpectedAdmissionDate,ReservationModifyReasonId,ReservationNumber,ReservationRemarks,ReservationStatusId,ReservationTypeId,ScheduledSurgeryIds,TreatmentTypeId,UpdatedById from ss_target.Reservation_final
+UNION ALL
+select ReservationId,header__operation,cast(date_format(header__timestamp, 'yyyy-MM-dd HH:mm:ss') as timestamp) as modified_date,AdmissionNumber,AdmissionReasonId,AdmittingConsultantId,BillingClassId,CancellationSendMail,CancellationSendSMS,CancelledById,CancelReasonId,CancelRemark,CreatedById,CreatedTime,DiagnosisId,EntitlementId,ExpectedAdmissionDate,ExpectedLOS,HospitalId,ICDId,IsActive,LastUpdatedTime,ModifyRemark,PatientId,PaymentTypeId,PrevExpectedAdmissionDate,ReservationModifyReasonId,ReservationNumber,ReservationRemarks,ReservationStatusId,ReservationTypeId,ScheduledSurgeryIds,TreatmentTypeId,UpdatedById from ss_source.Reservation__ct
+where header__operation!='BEFOREIMAGE') t2
+)A
+where Rnk=1
+AND header__operation!='DELETE';
+
+alter table ss_target.Reservation_final rename to Reservation_tmp;
+alter table ss_target.Reservation_stg rename to ss_target.Reservation_final;
+drop table Reservation_tmp;

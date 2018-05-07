@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+ProcedureBalanceId,bigint,1
+BalanceAmountRequired,numeric,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PatientClassId,bigint,0
+PaymentTypeId,bigint,0
+ProcedureId,bigint,0
+UpdatedById,bigint,0

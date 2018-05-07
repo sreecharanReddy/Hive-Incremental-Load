@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+BloodBankComponentEquipmentMappingId,int,1
+BloodComponentId,bigint,0
+CentrifugeId,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EquipmentId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MethodName,varchar,0
+UpdatedById,bigint,0

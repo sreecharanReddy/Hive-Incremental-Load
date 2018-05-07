@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+PatientPortalFeedId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HTML,varchar,0
+IsActive,tinyint,0
+IsPrimary,tinyint,0
+LastUpdatedTime,datetime,0
+PatientPortalStaticPageId,bigint,0
+SubPageName,varchar,0
+UpdatedById,bigint,0

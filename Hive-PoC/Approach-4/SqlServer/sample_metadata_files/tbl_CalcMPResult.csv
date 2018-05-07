@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+CalcMPResultId,int,1
+MaxValue,numeric,0
+MinValue,numeric,0
+Result,varchar,0

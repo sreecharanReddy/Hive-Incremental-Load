@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+PatientKinId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EmailId,varchar,0
+GenderId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+KinName,varchar,0
+LastUpdatedTime,datetime,0
+MobileNumber,varchar,0
+PatientId,bigint,0
+RegistrationNumber,varchar,0
+RelationId,bigint,0
+TelephoneNumber,varchar,0
+UpdatedById,bigint,0
+UpdatedByPatient,bit,0

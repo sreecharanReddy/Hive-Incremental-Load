@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+DischargeUnFreezeReasonId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+DischargeUnFreezeReasonCode,varchar,0
+DischargeUnFreezeReasonDescription,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

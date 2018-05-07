@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+BloodBankDonorTypeId,bigint,1
+BloodBankDonorType,varchar,0
+BloodBankDonorTypeCode,varchar,0
+IsActive,tinyint,0

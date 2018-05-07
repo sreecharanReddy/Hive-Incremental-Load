@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+LOSBedReportId,bigint,1
+AvailableBeds,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DAMACount,int,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+OccupiedBeds,int,0
+PatientDeaths,int,0
+ReportDate,date,0
+TotalAdmissions,int,0
+TotalBeds,int,0
+UpdatedById,bigint,0
+WardName,varchar,0

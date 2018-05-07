@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+BloodGroupId,bigint,1
+BloodGroupCode,varchar,0
+BloodGroupDescription,varchar,0
+BloodGroupName,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsRareBloodGroup,tinyint,0
+LastUpdatedTime,datetime,0
+RhTypeId,int,0
+UpdatedById,bigint,0

@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+CheckOutTypeId,int,1
+CheckOutCode,varchar,0
+CheckOutType,varchar,0
+IsTriageCheckout,tinyint,0

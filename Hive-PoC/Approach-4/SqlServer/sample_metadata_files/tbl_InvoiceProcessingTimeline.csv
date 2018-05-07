@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+InvoiceProcessingTimelineId,tinyint,1
+ClaimMgmtStatusId,int,0
+Colour,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FromTime,int,0
+FromTimeUnitId,bigint,0
+HospitalId,bigint,0
+InstituteId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+ToTime,int,0
+ToTimeUnitId,bigint,0
+UpdatedById,bigint,0

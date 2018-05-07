@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+MultiLangSupportId,bigint,1
+Consent,nvarchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LanguageCode,varchar,0
+LastUpdatedTime,datetime,0
+Message,nvarchar,0
+MessageType,varchar,0
+UpdatedById,bigint,0

@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+GatePassTypeId,bigint,1
+GatePassType,varchar,0
+GatePassTypeCode,varchar,0
+IsActive,tinyint,0

@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+TriageCategoryId,int,1
+Color,varchar,0
+TriageCategory,varchar,0
+TriageCategoryCode,varchar,0

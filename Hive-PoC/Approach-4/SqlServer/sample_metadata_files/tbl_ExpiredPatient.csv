@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+ExpiredPatientId,bigint,1
+AdmissionNumber,varchar,0
+CauseOfDeath,varchar,0
+ConformingDoctorId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+ExpiredReasons,varchar,0
+ExpiredTime,datetime,0
+HandOverDetails,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+RegistrationNumber,varchar,0
+TriageDetailId,bigint,0
+UpdatedById,bigint,0

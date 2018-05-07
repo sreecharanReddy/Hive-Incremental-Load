@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+LinkOrgReduceDetailsId,bigint,1
+BillingClassId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+OrganisationLinkingTariffId,bigint,0
+ReducedPercentage,numeric,0
+UpdatedById,bigint,0

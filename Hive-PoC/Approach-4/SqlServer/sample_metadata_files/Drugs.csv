@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+DrugId,bigint,1
+Category,varchar,0
+CompanyName,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+Deletecomments,varchar,0
+DrugCode,varchar,0
+DrugName,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsBanned,bit,0
+LastUpdatedTime,datetime,0
+MedicineName,varchar,0
+UpdatedById,bigint,0

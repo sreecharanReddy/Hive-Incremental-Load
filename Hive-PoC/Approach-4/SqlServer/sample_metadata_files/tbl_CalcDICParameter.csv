@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+CalcDICParameterId,bigint,1
+DICParameterCode,varchar,0
+DICParameterName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0

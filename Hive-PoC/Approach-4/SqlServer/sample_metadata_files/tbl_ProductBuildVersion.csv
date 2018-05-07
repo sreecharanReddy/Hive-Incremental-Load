@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+ProductBuildVersionId,int,1
+BuildDate,datetime,0
+BuildNumber,varchar,0
+BuildStatus,varchar,0
+BuildTag,varchar,0
+BuildURL,varchar,0
+comments,varchar,0
+CreatedTime,datetime,0
+HospitalGroupId,bigint,0
+JenkinsURL,varchar,0
+JobName,varchar,0
+SVNRevision,varchar,0

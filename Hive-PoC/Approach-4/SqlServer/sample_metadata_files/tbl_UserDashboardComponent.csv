@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+UserDashboardComponentId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DashboardComponentId,bigint,0
+DashboardSize,int,0
+EndDate,date,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+ParentId,bigint,0
+Position,varchar,0
+SQLQuery,nvarchar,0
+StartDate,date,0
+UpdatedById,bigint,0
+UserId,bigint,0
+ViewOrder,int,0

@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+ServiceRadiologyFilmMapId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FilmCount,int,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsDefault,tinyint,0
+IsDelete,tinyint,0
+LastUpdatedTime,datetime,0
+ProductId,bigint,0
+ProductSubGroupId,bigint,0
+ServiceId,bigint,0
+UpdatedById,bigint,0

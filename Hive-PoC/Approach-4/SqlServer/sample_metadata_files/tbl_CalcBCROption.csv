@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+CalcBCROptionId,bigint,1
+BCROptionName,varchar,0
+CalcBCRParameterId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+Score,int,0

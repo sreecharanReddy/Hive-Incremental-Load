@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+DoctorPaymentRuleId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DoctorFixedAmount,numeric,0
+DoctorId,bigint,0
+DoctorPaymentTypeId,int,0
+EndDate,date,0
+FromDate,date,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsDiscountAllowed,tinyint,0
+LastUpdatedTime,datetime,0
+PaymentDays,int,0
+TDSPercentage,numeric,0
+UpdatedById,bigint,0

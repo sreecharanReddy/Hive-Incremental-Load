@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+UserComponentListId,bigint,1
+ComponentList,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+ParentComponent,varchar,0
+UpdatedById,bigint,0
+UserId,bigint,0

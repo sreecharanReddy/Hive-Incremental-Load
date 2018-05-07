@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+ApplicationThemeId,int,1
+CSSFileName,varchar,0
+HospitalGroupId,bigint,0
+IsActive,tinyint,0
+ThemeName,varchar,0

@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+PatientPortalStaticPageId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalGroupId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+PageCode,varchar,0
+PageName,varchar,0
+UpdatedById,bigint,0

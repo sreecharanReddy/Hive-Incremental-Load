@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+LabTechnicianId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+TechnicianFirstName,varchar,0
+TechnicianLastName,varchar,0
+TechnicianMiddleName,varchar,0
+UpdatedById,bigint,0

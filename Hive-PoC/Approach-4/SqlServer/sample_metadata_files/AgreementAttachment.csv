@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+AttachmentId,bigint,1
+AgreementId,bigint,0
+AgreementRef,varchar,0
+AttachmentStatus,bit,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+documentName,varchar,0
+DocumentTypeId,bigint,0
+HospitalId,bigint,0
+InstituteId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

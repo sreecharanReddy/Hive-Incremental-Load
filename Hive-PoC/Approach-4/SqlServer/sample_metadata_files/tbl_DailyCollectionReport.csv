@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+DailyCollectionReportId,bigint,1
+Amount,numeric,0
+HospitalId,bigint,0
+IsOPRecord,tinyint,0
+IsOTRecord,tinyint,0
+ReportDate,date,0

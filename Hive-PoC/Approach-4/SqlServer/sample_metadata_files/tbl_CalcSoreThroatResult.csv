@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+CalcSoreThroatResultId,int,1
+Max,int,0
+Min,int,0
+Result,varchar,0

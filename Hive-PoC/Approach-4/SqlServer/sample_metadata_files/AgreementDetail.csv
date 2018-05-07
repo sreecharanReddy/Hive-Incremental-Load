@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+AgreementId,bigint,1
+AgreementDate,date,0
+AgreementInfo,varchar,0
+AgreementRef,varchar,0
+AgreementStatus,bit,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EffectiveDate,date,0
+HospitalId,bigint,0
+InstituteId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PatientType,varchar,0
+UpdatedById,bigint,0
+ValidUpTo,date,0

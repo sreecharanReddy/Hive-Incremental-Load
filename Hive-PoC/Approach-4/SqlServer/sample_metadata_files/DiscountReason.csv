@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+DiscountReasonId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DiscountReasonCode,varchar,0
+DiscountReasonName,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsHospitalDiscount,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+CheckOutDetailsId,bigint,1
+AdmissionTo,bigint,0
+CheckOutTime,datetime,0
+CheckOutTypeId,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DischargeAdvice,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Remarks,varchar,0
+TransferredTo,bigint,0
+TriageCheckOutReasonId,bigint,0
+TriageDetailId,bigint,0
+UpdatedById,bigint,0

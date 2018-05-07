@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+BloodBankSpecialCharacteristicsId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+SpecialCharacteristics,varchar,0
+UpdatedById,bigint,0

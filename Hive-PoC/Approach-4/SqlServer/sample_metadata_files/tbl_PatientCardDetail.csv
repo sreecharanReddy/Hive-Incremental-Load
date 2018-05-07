@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+PatientCardDetailId,bigint,1
+Amount,numeric,0
+CardEndDate,date,0
+CardStartDate,date,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EntitlementId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsBilled,tinyint,0
+IsDefault,tinyint,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+ServiceId,bigint,0
+UpdatedById,bigint,0

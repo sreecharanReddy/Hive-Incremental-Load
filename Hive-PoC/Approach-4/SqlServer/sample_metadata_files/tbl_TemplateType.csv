@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+TemplateTypeId,bigint,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+TemplateType,varchar,0
+TemplateTypeCode,varchar,0

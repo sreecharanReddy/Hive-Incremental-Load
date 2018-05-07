@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+ReceiptMapId,bigint,1
+AdmissionId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+InvoiceId,bigint,0
+IPBillInvoiceHeaderId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+ReceiptAmount,numeric,0
+ReceiptId,bigint,0
+SettlementNumber,varchar,0
+UpdatedById,bigint,0
+UtilizedAmount,numeric,0

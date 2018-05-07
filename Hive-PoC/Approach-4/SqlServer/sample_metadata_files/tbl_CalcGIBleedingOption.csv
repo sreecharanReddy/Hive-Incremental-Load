@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+CalcGIBleedingOptionId,bigint,1
+CalcGIBleedingParameterId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsOptionChecked,varchar,0
+Score,int,0

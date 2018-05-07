@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+OphthalPowerTypeId,bigint,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+OphthalPowerType,varchar,0

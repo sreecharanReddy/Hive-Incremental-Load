@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+ProductReorderLevelId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MaxQuantity,int,0
+MinQuantity,int,0
+ProductId,bigint,0
+ReOrderLevel,int,0
+ReOrderQuantity,int,0
+UpdatedById,bigint,0
+WarehouseId,bigint,0

@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+EquipmentUnMatchedResultDataId,int,1
+AccessionNumber,varchar,0
+EquipmentCode,varchar,0
+Group,varchar,0
+ParameterCode,varchar,0
+Result,varchar,0

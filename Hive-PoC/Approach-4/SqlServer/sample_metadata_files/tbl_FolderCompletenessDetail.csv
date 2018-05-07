@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+FolderCompletenessDetailId,bigint,1
+Cleared,tinyint,0
+ClearedDate,date,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DoctorId,bigint,0
+DueDate,date,0
+FolderCompletenessHeaderId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MRDChecklistId,bigint,0
+MRDChecklistStatusId,bigint,0
+SendEmail,tinyint,0
+SendSMS,tinyint,0
+UpdatedById,bigint,0

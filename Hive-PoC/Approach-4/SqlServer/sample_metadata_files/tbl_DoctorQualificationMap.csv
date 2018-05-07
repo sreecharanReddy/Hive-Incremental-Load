@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+DoctorQualificationMapId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DoctorId,bigint,0
+DoctorQualificationId,bigint,0
+HospitalId,bigint,0
+Isactive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

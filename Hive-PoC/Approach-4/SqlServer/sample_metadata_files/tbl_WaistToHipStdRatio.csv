@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+WaistToHipStdRatioId,bigint,1
+FromAge,int,0
+GenderId,bigint,0
+HighMax,numeric,0
+HighMin,numeric,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+Low,numeric,0
+ModerateMax,numeric,0
+ModerateMin,numeric,0
+ToAge,int,0
+VeryHigh,numeric,0

@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+DischargeSummaryDetailId,bigint,1
+CategoryViewOrder,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DischargeCategoryId,bigint,0
+DischargeSummary,varchar,0
+DischargeSummaryHeaderId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

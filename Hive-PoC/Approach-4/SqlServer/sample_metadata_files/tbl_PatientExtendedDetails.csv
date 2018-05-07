@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+PatientExtendedDetailId,bigint,1
+AadharCardNo,varchar,0
+AlternateContactNumber,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+InsuredPatientNo,varchar,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+UpdatedById,bigint,0
+VisitNumber,bigint,0

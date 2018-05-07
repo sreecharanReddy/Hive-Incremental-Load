@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+DoctorPCRuleId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DoctorId,bigint,0
+DoctorPCGroupId,bigint,0
+DoctorPCSubGroupId,bigint,0
+EffectiveEndDate,date,0
+EffectiveFromDate,date,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+PatientTypeId,bigint,0
+PCPercentage,numeric,0
+UpdatedById,bigint,0

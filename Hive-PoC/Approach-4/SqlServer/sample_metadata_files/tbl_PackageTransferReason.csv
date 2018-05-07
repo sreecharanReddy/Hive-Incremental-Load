@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+PackageTransferReasonId,bigint,1
+HospitalId,bigint,0
+IsActive,bit,0
+PackageTransferReasonCode,varchar,0
+PackageTransferReasonDescription,varchar,0

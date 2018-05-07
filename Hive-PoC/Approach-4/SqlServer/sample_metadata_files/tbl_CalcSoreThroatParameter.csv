@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+CalcSoreThroatParameterId,bigint,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+SoreThroatParameterCode,varchar,0
+SoreThroatParameterName,varchar,0

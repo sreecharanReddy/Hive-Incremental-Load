@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+DailyOpeningStockHeaderId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+ProductId,bigint,0
+ProductName,varchar,0
+ReportDate,date,0
+Stock,int,0
+UOMName,varchar,0
+WarehouseId,bigint,0
+WarehouseName,varchar,0

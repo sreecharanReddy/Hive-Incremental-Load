@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+BloodBankCrossMatchDetailId,int,1
+BloodBankClubbedUnitId,int,0
+BloodBankCompStatusId,tinyint,0
+BloodBankCrossMatchHeaderId,int,0
+BloodBankCrossMatchProgressId,tinyint,0
+BloodBankCrossMatchReasonId,bigint,0
+BloodBankSeparateCompDetailId,int,0
+BloodBankTechniqueSubTypeId,tinyint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsBothPatient,tinyint,0
+LastUpdatedTime,datetime,0
+Remarks,varchar,0
+UpdatedById,bigint,0

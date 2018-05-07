@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+BedSoreGradeId,int,1
+BedSoreGradeName,varchar,0
+Description,varchar,0

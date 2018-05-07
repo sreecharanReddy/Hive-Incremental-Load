@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+AppointmentTypeId,bigint,1
+AppointmentType,varchar,0
+AppointmentTypeCode,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

@@ -1,0 +1,3 @@
+drop table if exists ss_target.Reservation_final;
+create table ss_target.Reservation_final as
+select * from ss_source.Reservation;

@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+SurchargeDetailId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+InvoiceDetailId,bigint,0
+InvoiceId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+OrderId,bigint,0
+PatientId,bigint,0
+PatientSurchargeAmount,numeric,0
+ServiceId,bigint,0
+SponsorSurchargeAmount,numeric,0
+SurchargeType,varchar,0
+UpdatedById,bigint,0

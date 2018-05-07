@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+DrugInteractionId,bigint,1
+DrugId1,bigint,0
+DrugId2,bigint,0

@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+LatchKey,char,1
+latchMachineGUID,varchar,1
+latchTaskName,varchar,1
+latchLocker,datetime,0

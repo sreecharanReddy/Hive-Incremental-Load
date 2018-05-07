@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+ShareFeedbackId,int,1
+AppointmentId,bigint,0
+CreatedById,int,0
+CreatedTime,datetime,0
+FeedbackSharedRegNumbers,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,int,0

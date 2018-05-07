@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+BloodBankSeroTestDetailId,int,1
+BloodBankComponentEquipmentMappingId,int,0
+BloodBankControlTypeId,tinyint,0
+BloodBankDonorRegistrationId,int,0
+BloodBankExternalDonorRegistrationId,int,0
+BloodBankSerologyTestId,int,0
+Comments,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FinalValue,numeric,0
+HospitalId,bigint,0
+InterpretationValue,numeric,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+ResultInterpretationStatusId,int,0
+UpdatedById,bigint,0

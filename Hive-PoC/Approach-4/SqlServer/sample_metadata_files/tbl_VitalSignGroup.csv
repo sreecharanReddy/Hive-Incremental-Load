@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+VitalSignGroupId,bigint,1
+HospitalId,bigint,0
+IsActive,bit,0
+VitalSignGroupCode,varchar,0
+VitalSignGroupName,varchar,0

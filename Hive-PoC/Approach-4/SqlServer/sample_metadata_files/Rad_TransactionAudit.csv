@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+TransactionAuditId,bigint,1
+AuthenticatingDoctorId,bigint,0
+AuthenticationReason,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+CurrentStageId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+ReAuthenticateReasonId,bigint,0
+ReAuthenticatingDoctorId,bigint,0
+ResultAuthenticationDate,datetime,0
+ResultReauthenticationDate,datetime,0
+TransactionId,bigint,0
+UpdatedById,bigint,0

@@ -1,0 +1,26 @@
+datetimekey,integer,0
+diagnosiskey,bigint,0
+doctorkey,bigint,0
+hospitalkey,bigint,0
+invoicekey,integer,1
+lastmodifieddate,timestamp without time zone,0
+patientdiscountamount,double precision,0
+patientemergencycharges,double precision,0
+patientfnscamount,double precision,0
+patientgrossamount,double precision,0
+patientgrossdiscountamount,double precision,0
+patientkey,bigint,0
+patientnetamount,double precision,0
+patientsurchargeamount,double precision,0
+patienttaxamount,double precision,0
+serviceamount,double precision,0
+servicekey,bigint,0
+sponsordiscountamount,double precision,0
+sponsoremergencycharges,double precision,0
+sponsorfnscamount,double precision,0
+sponsorgrossamount,double precision,0
+sponsorgrossdiscountamount,double precision,0
+sponsornetamount,double precision,0
+sponsorsurchargeamount,double precision,0
+sponsortaxamount,double precision,0
+srcupdateddate,date,0

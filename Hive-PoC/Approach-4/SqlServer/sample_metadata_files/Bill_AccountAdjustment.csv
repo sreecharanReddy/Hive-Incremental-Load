@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+AccountAdjustmentId,bigint,1
+AdjustedAmount,numeric,0
+AdmissionId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+InvoiceId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+Remarks,varchar,0
+SettlementNumber,varchar,0
+UpdatedById,bigint,0

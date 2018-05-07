@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+CalcDVTOptionId,int,1
+CalcDVTParameterId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsOptionChecked,tinyint,0
+Score,int,0

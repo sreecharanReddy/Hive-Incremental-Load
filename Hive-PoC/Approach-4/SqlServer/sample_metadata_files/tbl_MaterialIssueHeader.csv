@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+MaterialIssueHeaderId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IssuedDate,datetime,0
+IssueFromWarehouseId,bigint,0
+IssueToWarehouseId,bigint,0
+IsUrgent,tinyint,0
+LastUpdatedTime,datetime,0
+MaterialIssueNumber,varchar,0
+MaterialRequestHeaderId,bigint,0
+Remarks,varchar,0
+UpdatedById,bigint,0

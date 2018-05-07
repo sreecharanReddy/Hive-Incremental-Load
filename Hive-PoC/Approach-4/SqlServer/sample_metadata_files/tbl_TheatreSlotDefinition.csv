@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+TheatreSlotId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FromMin,smallint,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsDelete,bit,0
+LastUpdatedTime,datetime,0
+Qty,smallint,0
+ToMin,smallint,0
+UpdatedById,bigint,0

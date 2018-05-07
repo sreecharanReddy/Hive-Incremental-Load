@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+DoctorMiscEntryTypeId,int,1
+DoctorMiscEntryType,varchar,0
+DoctorMiscEntryTypeCode,varchar,0

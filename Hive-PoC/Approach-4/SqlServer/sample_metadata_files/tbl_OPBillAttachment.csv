@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+OPBillAttachmentId,bigint,1
+AttachmentName,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FileName,varchar,0
+HospitalId,bigint,0
+InvoiceId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Remarks,varchar,0
+UpdatedById,bigint,0

@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+MRDRequestTypeId,tinyint,1
+Description,varchar,0
+IsActive,tinyint,0
+MRDRequestReasonId,tinyint,0
+MRDRequestType,varchar,0
+MRDRequestTypeCode,varchar,0
+PatientType,varchar,0

@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+BloodBankCampId,int,1
+CampFromDate,datetime,0
+CampName,varchar,0
+CampToDate,datetime,0
+ContactPersonId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+LocalContactPersonEmail,varchar,0
+LocalContactPersonName,varchar,0
+LocalContactPersonPhoneNo,varchar,0
+OrganizedBy,varchar,0
+OrganizingPartner,varchar,0
+UpdatedById,bigint,0

@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+AgeGroupUnitId,bigint,1
+AgeGroup,varchar,0
+Code,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+FromAgeNumber,varchar,0
+FromAgeUnit,varchar,0
+FromAgeUnitId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+ToAgeNumber,varchar,0
+ToAgeUnit,varchar,0
+ToAgeUnitId,bigint,0
+UpdatedById,bigint,0

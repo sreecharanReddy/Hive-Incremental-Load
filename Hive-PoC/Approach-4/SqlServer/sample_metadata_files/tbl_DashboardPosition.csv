@@ -1,0 +1,3 @@
+FieldName,DataType,IsPrimary
+DashboardPositionId,int,1
+Position,varchar,0

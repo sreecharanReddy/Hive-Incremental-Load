@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+LabInvestigationSampleTypeId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LabInvestigationId,bigint,0
+LabInvestigationSampleTypeStatus,bit,0
+LabSampleTypeId,bigint,0
+LabSIUnitId,bigint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0
+volume,numeric,0

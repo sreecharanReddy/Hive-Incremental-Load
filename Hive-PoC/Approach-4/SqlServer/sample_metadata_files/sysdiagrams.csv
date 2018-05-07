@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+diagram_id,int,1
+definition,varbinary,0
+name,sysname,0
+principal_id,int,0
+version,int,0

@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+MachineUnMatchedResultDataId,int,1
+AccessionNumber,varchar,0
+IsProcessed,tinyint,0
+MachineCode,varchar,0
+ParameterCode,varchar,0
+ProcessedTime,datetime,0
+Result,varchar,0

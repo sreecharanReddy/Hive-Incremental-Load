@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+CurrencyId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+CurrencyCode,varchar,0
+CurrencyDescription,varchar,0
+CurrencyPrecision,int,0
+CurrencyRateFactor,varchar,0
+CurrentRate,numeric,0
+deleteComment,nchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

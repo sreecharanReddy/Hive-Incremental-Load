@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+DoctorPCGroupId,bigint,1
+DoctorPCGroupCode,varchar,0
+DoctorPCGroupName,varchar,0
+DoctorPCGroupOrder,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0

@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+TriagePatientReferralId,bigint,1
+Advice,varchar,0
+CaptureDatetime,datetime,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DepartmentId,bigint,0
+DoctorId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Opinion,varchar,0
+TriageDetailId,bigint,0
+UpdatedById,bigint,0

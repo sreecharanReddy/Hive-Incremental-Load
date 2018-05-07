@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+ColorId,bigint,1
+Color,varchar,0
+ColorCode,varchar,0
+IsActive,tinyint,0

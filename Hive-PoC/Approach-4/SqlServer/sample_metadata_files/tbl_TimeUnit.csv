@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+TimeUnitId,bigint,1
+HospitalId,bigint,0
+IsActive,bit,0
+TimeUnitCode,varchar,0
+TimeUnitName,varchar,0

@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+SynonymId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+Entity,varchar,0
+EntityID,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsDelete,bit,0
+LastUpdatedTime,datetime,0
+SynonymName,varchar,0
+UpdatedById,bigint,0

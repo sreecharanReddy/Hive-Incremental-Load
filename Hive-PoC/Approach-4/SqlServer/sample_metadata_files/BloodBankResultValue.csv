@@ -1,0 +1,3 @@
+FieldName,DataType,IsPrimary
+BloodBankResultValueId,tinyint,1
+Value,varchar,0

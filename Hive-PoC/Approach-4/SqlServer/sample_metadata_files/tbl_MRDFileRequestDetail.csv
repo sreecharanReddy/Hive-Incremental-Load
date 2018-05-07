@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+MRDFileRequestDetailId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FromDepartmentId,bigint,0
+FromLocation,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsLatest,tinyint,0
+LastUpdatedTime,datetime,0
+MRDFileMovementStatusId,tinyint,0
+MRDFileRequestHeaderId,bigint,0
+ToDepartmentId,bigint,0
+ToLocation,varchar,0
+TrackingRank,tinyint,0
+UpdatedById,bigint,0

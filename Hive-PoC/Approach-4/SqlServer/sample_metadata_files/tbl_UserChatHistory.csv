@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+UserChatHistoryId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+IsActive,tinyint,0
+IsGroup,tinyint,0
+IsSeen,tinyint,0
+LastUpdatedTime,datetime,0
+Message,varchar,0
+MsgSentByUserId,bigint,0
+MsgSentTo,bigint,0
+UpdatedById,bigint,0

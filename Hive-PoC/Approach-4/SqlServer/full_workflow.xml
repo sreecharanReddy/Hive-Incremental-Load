@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-app xmlns="uri:oozie:workflow:0.4" name="full_workflow">
+    <start to="hive-node"/>
+        <action name="hive-node">
+        <hive xmlns="uri:oozie:hive-action:0.2">
+            <job-tracker>${jobTracker}</job-tracker>
+            <name-node>${nameNode}</name-node>         
+            <job-xml>${nameNode}/user/maria_dev/hive-site.xml</job-xml>
+            <configuration>
+                <property>
+                    <name>mapred.job.queue.name</name>
+                    <value>${queueName}</value>
+                </property>            
+            </configuration>
+            <script>${hivescript}</script>
+        </hive>
+        <ok to="shell-node"/>
+        <error to="fail"/>
+        </action>
+        <action name="shell-node">
+            <shell xmlns="uri:oozie:shell-action:0.2">
+                <job-tracker>${jobTracker}</job-tracker>
+                <name-node>${nameNode}</name-node>
+                <configuration>
+                    <property>
+                        <name>mapred.job.queue.name</name>
+                        <value>${queueName}</value>
+                    </property>
+                </configuration>
+                <exec>${shellscript}</exec>
+                <file>${shellscriptPath}</file>
+            </shell>
+            <ok to="end"/>
+            <error to="fail"/>
+        </action>
+    <kill name="fail">
+        <message>Action failed, error message[${wf:errorMessage(wf:lastErrorNode())}]</message>
+    </kill>
+    <end name="end"/>
+</workflow-app>

@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+PatientSanctionDetailID,bigint,1
+AdmissionNumber,varchar,0
+AttachedFile,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EntitlementId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PatientSanctionAmount,decimal,0
+PatientSanctionRemarks,varchar,0
+ReferenceNumber,varchar,0
+RegistrationNumber,varchar,0
+SanctionedDate,datetime,0
+UpdatedById,bigint,0

@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+DocketTypeId,int,1
+DepartmentId,bigint,0
+DocketTypeCode,varchar,0
+DocketTypeName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+PatientTypeId,bigint,0

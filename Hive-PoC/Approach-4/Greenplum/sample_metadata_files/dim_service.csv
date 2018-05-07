@@ -1,0 +1,19 @@
+lastmodifieddate,timestamp without time zone,0
+serviceabbreviation,character varying,0
+serviceapplgender,character varying,0
+serviceapptflag,character varying,0
+servicecasetype,character varying,0
+servicedefaultrender,character varying,0
+servicedisplayinstr,character varying,0
+servicedocrequest,character varying,0
+servicegroupid,bigint,0
+serviceid,bigint,0
+serviceissuemode,character varying,0
+servicekey,integer,1
+servicelinkto,character varying,0
+servicelmpflag,character varying,0
+servicemrdfilereq,character varying,0
+servicename,character varying,0
+serviceprintinstr,character varying,0
+servicetypeid,bigint,0
+srcupdateddate,date,0

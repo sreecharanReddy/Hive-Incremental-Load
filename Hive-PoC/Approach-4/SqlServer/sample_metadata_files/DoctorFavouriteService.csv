@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+DoctorFavouriteServiceId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DoctorId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+ProductId,bigint,0
+ServiceId,bigint,0
+UpdatedById,bigint,0

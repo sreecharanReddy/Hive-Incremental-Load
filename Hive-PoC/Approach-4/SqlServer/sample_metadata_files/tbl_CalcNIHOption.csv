@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+CalcNIHOptionId,bigint,1
+CalcNIHParameterId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+NIHOptionName,varchar,0
+Score,int,0

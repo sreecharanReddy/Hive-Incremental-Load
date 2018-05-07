@@ -1,0 +1,9 @@
+FieldName,DataType,IsPrimary
+NonAdministeredReasonId,int,1
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+NonAdministeredReason,varchar,0
+NonAdministeredReasonCode,varchar,0

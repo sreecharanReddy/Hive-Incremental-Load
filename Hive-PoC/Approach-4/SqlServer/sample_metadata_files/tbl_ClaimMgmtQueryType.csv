@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+ClaimMgmtQueryTypeId,int,1
+ClaimMgmtQueryTypeCode,varchar,0
+ClaimMgmtQueryTypeName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0

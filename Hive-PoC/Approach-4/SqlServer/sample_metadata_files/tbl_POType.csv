@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+POTypeId,int,1
+POType,varchar,0
+POTypeCode,varchar,0

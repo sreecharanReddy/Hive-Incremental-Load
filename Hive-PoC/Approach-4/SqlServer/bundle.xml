@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bundle-app xmlns="uri:oozie:bundle:0.2" name='bundleApp'> 
+  <controls>
+       <kick-off-time>${kickOffTime}</kick-off-time>
+  </controls>
+   <coordinator name='hive_coordinator'>
+   </coordinator>
+</bundle-app>

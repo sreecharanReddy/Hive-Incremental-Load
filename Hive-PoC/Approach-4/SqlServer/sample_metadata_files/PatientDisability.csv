@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+PatientDisabilityId,bigint,1
+AppointmentId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DisabilityId,bigint,0
+DisabilitySince,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PrimaryDoctorId,bigint,0
+ProgressHistory,varchar,0
+UpdatedById,bigint,0

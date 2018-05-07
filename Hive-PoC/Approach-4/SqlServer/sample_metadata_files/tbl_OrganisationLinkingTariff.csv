@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+OrganisationLinkingTariffId,bigint,1
+ActiveStatus,tinyint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Priority,int,0
+RequestedOrganisation,bigint,0
+TariffFollowFrom,bigint,0
+UpdatedById,bigint,0

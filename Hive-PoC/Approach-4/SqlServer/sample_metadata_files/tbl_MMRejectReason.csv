@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+PORejectReasonId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+PORejectReason,varchar,0
+PORejectReasonCode,varchar,0
+UpdatedById,bigint,0

@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+VitalSignId,bigint,1
+HospitalId,bigint,0
+IsActive,bit,0
+MaxValue,numeric,0
+MinValue,numeric,0
+ResultTypeId,bigint,0
+UOM,varchar,0
+ViewOrder,tinyint,0
+VitalSignCode,varchar,0
+VitalSignName,varchar,0

@@ -1,0 +1,3 @@
+FieldName,DataType,IsPrimary
+GroupId,int,1
+GroupName,varchar,0

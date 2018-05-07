@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+StgMastersListID,int,1
+IsSystemMaster,bit,0
+IsUIPresent,tinyint,0
+Module,varchar,0
+Sequence,tinyint,0
+TableName,varchar,0

@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+EmployeeTypeId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EmployeeType,varchar,0
+EmployeeTypeCode,varchar,0
+HospitalGroupId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

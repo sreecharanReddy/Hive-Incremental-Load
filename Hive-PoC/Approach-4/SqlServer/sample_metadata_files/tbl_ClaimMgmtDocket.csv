@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+ClaimMgmtDocketId,bigint,1
+ClaimMgmtHeaderId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DocketTypeId,int,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+RenderredCount,int,0
+ServiceId,bigint,0
+UnRenderredCount,int,0
+UpdatedById,bigint,0

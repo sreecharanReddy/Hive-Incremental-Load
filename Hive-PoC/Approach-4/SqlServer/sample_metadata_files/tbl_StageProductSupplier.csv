@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+StageProductSupplierId,bigint,1
+Comments,varchar,0
+IsActive,tinyint,0
+Price,numeric,0
+ProductId,bigint,0
+Quantity,int,0
+SupplierId,bigint,0
+ValidFromDate,date,0
+ValidToDate,date,0

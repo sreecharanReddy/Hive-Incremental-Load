@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+BloodBankBagTypeId,int,1
+BagDescription,varchar,0
+BagName,varchar,0
+BloodBankBagMakerId,bigint,0
+BloodBankBagSizeId,int,0
+BloodBankBagSubCategoryId,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+IsActive,tinyint,0
+IsDefault,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

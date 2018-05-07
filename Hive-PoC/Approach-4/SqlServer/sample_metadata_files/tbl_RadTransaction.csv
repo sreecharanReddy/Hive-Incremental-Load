@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+RadTransactionId,bigint,1
+Count,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsRad,bit,0
+LastUpdatedTime,datetime,0
+RadStage,varchar,0
+ReportDate,date,0
+TargetValue,int,0
+UpdatedById,bigint,0

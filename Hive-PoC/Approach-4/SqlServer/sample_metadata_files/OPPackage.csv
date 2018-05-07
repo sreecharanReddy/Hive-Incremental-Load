@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+OPPackageDetailId,bigint,1
+ComponentId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+DisplayOrder,int,0
+HospitalId,bigint,0
+HospitalTariff,numeric,0
+IsActive,bit,0
+IsConsultation,tinyint,0
+LastUpdatedTime,datetime,0
+OPPackageId,bigint,0
+PCAmount,numeric,0
+PCPercentage,numeric,0
+UpdatedById,bigint,0

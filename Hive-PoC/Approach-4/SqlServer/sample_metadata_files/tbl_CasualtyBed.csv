@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+CasualtyBedId,bigint,1
+CasualtyBedName,varchar,0
+CasualtyBedNumber,varchar,0
+CasualtyBedStatusCode,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+NurseStationId,bigint,0
+RoomId,bigint,0
+UpdatedById,bigint,0
+WardId,bigint,0
+WardTypeId,bigint,0

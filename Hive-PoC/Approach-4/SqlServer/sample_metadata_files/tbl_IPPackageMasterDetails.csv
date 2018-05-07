@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+IPPackageDetailID,bigint,1
+BedGroupId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IPPackageBillProperty,char,0
+IPPackageCategory,varchar,0
+IPPackageCategoryId,bigint,0
+IPPackageHeaderID,bigint,0
+IPPackageType,varchar,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PackageCost,numeric,0
+PackageQuantity,int,0
+SubCategoryId,bigint,0
+UpdatedById,bigint,0

@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+id,int,1
+modified_date,datetime,0
+phase_timed_out,bit,0
+progress_phase,nvarchar,0
+publication,sysname,0
+sent_date,datetime,0
+timeout,int,0

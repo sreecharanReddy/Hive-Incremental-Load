@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+BloodBankAuthorizationLevelId,int,1
+AuthorisedById,bigint,0
+AuthorizationLevel,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+TotalAuthorizationLevels,int,0
+UIComponentId,bigint,0
+UpdatedById,bigint,0

@@ -1,0 +1,3 @@
+FieldName,DataType,IsPrimary
+BedSoreDischargeConditionId,int,1
+BedSoreDischargeCondition,varchar,0

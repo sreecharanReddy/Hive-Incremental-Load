@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+BloodBankCompatibilityChoiceMatrixId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DefineChoice,int,0
+DonorABOGroupId,bigint,0
+DonorRhTypeId,int,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsDefault,tinyint,0
+IsDireEmergency,tinyint,0
+IsExpiryAlert,tinyint,0
+LastUpdatedTime,datetime,0
+RecipientABOGroupId,bigint,0
+RecipientRhTypeId,int,0
+UpdatedById,bigint,0

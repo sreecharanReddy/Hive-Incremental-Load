@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+DiagnosticServiceRequestId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DepartmentId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsArrived,tinyint,0
+LastUpdatedTime,datetime,0
+OrderServiceMapId,bigint,0
+PackageId,bigint,0
+PanelId,bigint,0
+SectionId,bigint,0
+ServiceId,bigint,0
+Stat,varchar,0
+UpdatedById,bigint,0

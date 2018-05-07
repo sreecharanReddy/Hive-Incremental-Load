@@ -1,0 +1,9 @@
+FieldName,DataType,IsPrimary
+BundleId,bigint,1
+BundleName,varchar,0
+BundleTypeID,int,0
+Description,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsServiceBundle,tinyint,0
+ProductTypeId,bigint,0

@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+SurveyResponseDetailId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Response,varchar,0
+ResponseGrid,varchar,0
+Score,int,0
+SurveyQuestionId,bigint,0
+SurveyResponseHeaderId,bigint,0
+UpdatedById,bigint,0

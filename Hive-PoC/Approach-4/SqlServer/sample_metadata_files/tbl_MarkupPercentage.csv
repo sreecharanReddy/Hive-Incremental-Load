@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+MarkupPercentageId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+Description,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MarkupPercentageCode,varchar,0
+Percentage,int,0
+Remarks,varchar,0
+UpdatedById,bigint,0

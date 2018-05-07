@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+EntitlementExclusionId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EntitlementId,bigint,0
+GroupCategoryID,bigint,0
+GroupSubCategoryId,bigint,0
+HospitalId,bigint,0
+ICDID,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

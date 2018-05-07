@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+TargetId,bigint,1
+DashboardComponentId,bigint,0
+Measurement,varchar,0
+TargetValue,int,0
+UserId,bigint,0

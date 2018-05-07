@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+LandingDashboardId,bigint,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+LandingDashboardCode,varchar,0
+LandingDashboardName,varchar,0

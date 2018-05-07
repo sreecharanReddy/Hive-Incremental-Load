@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+MaterialSelfConsDetailId,bigint,1
+AdjustedQuantity,numeric,0
+BatchNumber,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MaterialSelfConsHeaderId,bigint,0
+ProductId,bigint,0
+ProductName,varchar,0
+UOMId,bigint,0
+UpdatedById,bigint,0

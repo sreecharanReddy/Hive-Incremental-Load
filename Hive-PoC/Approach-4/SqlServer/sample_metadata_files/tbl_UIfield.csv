@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+UIfieldId,int,1
+CreatedById,int,0
+CreatedTime,datetime,0
+FieldColor,varchar,0
+FieldOrder,int,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsMandatory,tinyint,0
+Label,varchar,0
+LastUpdatedTime,datetime,0
+ParentField,varchar,0
+UIcomponentId,bigint,0
+UIFieldName,varchar,0
+UpdatedById,int,0

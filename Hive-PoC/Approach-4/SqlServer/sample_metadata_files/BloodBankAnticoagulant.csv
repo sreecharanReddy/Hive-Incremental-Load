@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+BloodBankAnticoagulantId,int,1
+AnticoagulantDescription,varchar,0
+AnticoagulantName,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+ExpiryDays,int,0
+IsActive,tinyint,0
+IsDefault,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

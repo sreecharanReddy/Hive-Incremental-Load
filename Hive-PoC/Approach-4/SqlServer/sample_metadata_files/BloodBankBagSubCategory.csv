@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+BloodBankBagSubCategoryId,int,1
+BagSubCategory,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

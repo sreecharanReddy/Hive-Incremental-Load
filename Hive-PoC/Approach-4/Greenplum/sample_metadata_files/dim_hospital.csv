@@ -1,0 +1,12 @@
+hospitaladdress,character varying,0
+hospitalcode,character varying,0
+hospitalemail,character varying,0
+hospitalfax,character varying,0
+hospitalid,bigint,0
+hospitalkey,integer,1
+hospitalname,character varying,0
+hospitalphone1,character varying,0
+hospitalphone2,character varying,0
+hospitalwebsite,character varying,0
+lastmodifieddate,timestamp without time zone,0
+srcupdateddate,date,0

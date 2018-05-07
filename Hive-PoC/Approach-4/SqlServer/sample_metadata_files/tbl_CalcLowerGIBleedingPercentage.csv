@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+CalcLowerGIBleedingPercentageId,int,1
+CalcLowerGIBleedingScore,int,0
+HospitalId,bigint,0
+Risk,int,0

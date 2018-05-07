@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+BloodBankCrossMatchHeaderId,int,1
+BloodBankAuthorizationStatusId,bigint,0
+BloodBankCompReqDetailId,int,0
+BloodBankSpecialCharacteristicsId,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

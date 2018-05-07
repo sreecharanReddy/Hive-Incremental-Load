@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+RespiratoryFlowChartValueId,bigint,1
+BloodGasAnalysisId,bigint,0
+BloodGasAnalysisValue,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+RespiratoryFlowChartId,bigint,0
+UpdatedById,bigint,0
+VentilatorSettingsId,bigint,0
+VentilatorSettingsValue,varchar,0

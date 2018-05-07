@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+EmergencyChargesId,bigint,1
+ByAmount,numeric,0
+ByPercentage,numeric,0
+ByTime,numeric,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EmergencyServiceId,bigint,0
+EmergencyTypeId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsDepartment,bit,0
+IsSection,bit,0
+IsService,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

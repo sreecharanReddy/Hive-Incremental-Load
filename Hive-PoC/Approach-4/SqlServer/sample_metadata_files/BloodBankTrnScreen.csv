@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+BloodBankTrnScreenId,tinyint,1
+BloodBankTrnScreen,varchar,0
+BloodBankTrnScreenCode,varchar,0
+IsActive,tinyint,0

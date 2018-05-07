@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+BloodBankCompIssueHeaderId,int,1
+BloodBankAuthorizationStatusId,bigint,0
+BloodBankCompReqDetailId,int,0
+BloodUnitIssueNumber,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IssuedDateTime,datetime,0
+IssuedUnits,int,0
+LastUpdatedTime,datetime,0
+ReqUnits,int,0
+UpdatedById,bigint,0

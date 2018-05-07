@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+EmergencyTypeId,bigint,1
+EmergencyTypeCode,varchar,0
+EmergencyTypeName,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0

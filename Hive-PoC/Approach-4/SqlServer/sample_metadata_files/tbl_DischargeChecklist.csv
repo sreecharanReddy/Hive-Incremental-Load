@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+DischargeChecklistId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+DischargeChecklistCode,varchar,0
+DischargeChecklistDescription,varchar,0
+DischargeStatusId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

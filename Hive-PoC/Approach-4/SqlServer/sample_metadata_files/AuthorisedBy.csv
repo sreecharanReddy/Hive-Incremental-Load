@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+AuthorisedById,bigint,1
+AuthorisedByCode,varchar,0
+AuthorisedByName,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+Designation,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsForBloodBank,tinyint,0
+IsForServiceRender,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

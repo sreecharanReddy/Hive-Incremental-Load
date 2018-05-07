@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+BloodBankControlTypeId,tinyint,1
+BloodBankControlType,varchar,0
+BloodBankControlTypeCode,varchar,0
+IsActive,tinyint,0

@@ -1,0 +1,5 @@
+diagnosis,character varying,0
+diagnosisid,bigint,0
+diagnosiskey,integer,1
+lastmodifieddate,timestamp without time zone,0
+srcupdateddate,date,0

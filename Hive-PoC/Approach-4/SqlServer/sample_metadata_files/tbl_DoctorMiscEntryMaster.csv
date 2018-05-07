@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+DoctorMiscEntryMasterId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+Description,varchar,0
+DoctorMiscEntryTypeId,int,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

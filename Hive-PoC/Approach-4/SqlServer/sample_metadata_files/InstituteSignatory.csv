@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+InstituteSignatoryId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+Designation,varchar,0
+HospitalId,bigint,0
+InstituteId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+MailId,varchar,0
+MobileNo,bigint,0
+PhoneNo,bigint,0
+SignatoryImageName,varchar,0
+SignatoryName,varchar,0
+SignatoryStatus,bit,0
+SignatoryTypeId,bigint,0
+UpdatedById,bigint,0

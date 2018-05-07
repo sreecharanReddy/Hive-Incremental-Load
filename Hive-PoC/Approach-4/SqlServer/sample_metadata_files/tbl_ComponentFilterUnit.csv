@@ -1,0 +1,3 @@
+FieldName,DataType,IsPrimary
+ComponentFilterUnitId,bigint,1
+ComponentFilterUnit,varchar,0

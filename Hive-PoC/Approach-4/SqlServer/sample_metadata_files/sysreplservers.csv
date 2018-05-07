@@ -1,0 +1,3 @@
+FieldName,DataType,IsPrimary
+srvname,sysname,1
+srvid,int,0

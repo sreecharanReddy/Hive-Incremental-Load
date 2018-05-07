@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+DischargeStatusId,bigint,1
+DischargeStatusCode,varchar,0
+DischargeStatusDescription,varchar,0
+DisplayOrder,int,0
+HospitalId,bigint,0
+IsActive,bit,0
+StatusColor,nvarchar,0

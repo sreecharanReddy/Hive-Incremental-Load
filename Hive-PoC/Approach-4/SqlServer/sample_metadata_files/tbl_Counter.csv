@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+CounterId,int,1
+CounterCode,varchar,0
+CounterName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0

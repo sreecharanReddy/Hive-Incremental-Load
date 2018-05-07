@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+IPServiceRenderDoctorId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DoctorId,bigint,0
+HospitalId,bigint,0
+InvoiceDetailId,bigint,0
+IPBillInvoiceDetailId,bigint,0
+IPServiceApprovalDetailsId,bigint,0
+IPServiceRequestDetailsId,bigint,0
+IsActive,bit,0
+IsDoctorPaymentFinalized,tinyint,0
+LastUpdatedTime,datetime,0
+Percentage,numeric,0
+RenderedDate,datetime,0
+ServiceId,bigint,0
+UpdatedById,bigint,0

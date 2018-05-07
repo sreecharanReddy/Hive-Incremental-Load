@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+PatientICPId,int,1
+ActiveStatus,bit,0
+AdmissionId,bigint,0
+AppointmentId,bigint,0
+CreatedById,int,0
+CreatedTime,datetime,0
+DoctorId,bigint,0
+HospitalId,bigint,0
+ICDId,bigint,0
+ICPId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+ProcedureDate,date,0
+UpdatedById,int,0

@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+FoodSubGroupId,bigint,1
+FoodMainGroupId,bigint,0
+FoodSubGroupName,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0

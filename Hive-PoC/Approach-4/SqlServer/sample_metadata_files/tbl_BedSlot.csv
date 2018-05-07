@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+BedSlotId,bigint,1
+ChargePercentage,numeric,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+Description,varchar,0
+FromTime,int,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+ToTime,int,0
+UpdatedById,bigint,0

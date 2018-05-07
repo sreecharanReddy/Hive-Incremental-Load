@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+Id,int,1
+Amount,numeric,0
+DoctorId,bigint,0
+EndDate,date,0
+FromDate,date,0
+PaymentDays,int,0
+TDSPercentage,numeric,0

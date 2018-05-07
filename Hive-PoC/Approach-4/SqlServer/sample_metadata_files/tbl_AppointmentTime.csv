@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+Id,int,1
+AppointmentTime,time,0
+ConsultationTypeId,bigint,0
+DoctorId,bigint,0
+HospitalId,bigint,0
+Isused,int,0
+OB,int,0
+Slot,int,0
+Weekday,varchar,0

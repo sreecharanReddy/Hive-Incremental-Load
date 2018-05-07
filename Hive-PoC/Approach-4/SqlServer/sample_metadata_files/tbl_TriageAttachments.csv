@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+TriageAttachmentsID,bigint,1
+AttachedFile,varchar,0
+AttachmentDate,datetime,0
+AttachmentName,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+Isactive,int,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+Remarks,varchar,0
+TriageDetailId,bigint,0
+UpdatedById,bigint,0

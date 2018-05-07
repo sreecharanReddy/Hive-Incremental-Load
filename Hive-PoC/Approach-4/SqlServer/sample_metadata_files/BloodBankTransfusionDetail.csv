@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+TransfusionDetailId,bigint,1
+BloodBankTransfusionHeadId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+PostTx,varchar,0
+PreTx,varchar,0
+TransfusionHeaderId,bigint,0
+UpdatedById,bigint,0

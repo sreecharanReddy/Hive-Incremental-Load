@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+PanelDetailId,bigint,1
+ComponentId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+DisplayOrder,int,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PanelId,bigint,0
+UpdatedById,bigint,0

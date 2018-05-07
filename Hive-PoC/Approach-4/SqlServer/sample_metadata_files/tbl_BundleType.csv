@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+BundleTypeID,int,1
+BundleTypeCode,varchar,0
+BundleTypeName,varchar,0

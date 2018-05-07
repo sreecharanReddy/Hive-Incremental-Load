@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+IdentityProofId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IdentityProofCode,varchar,0
+IdentityProofName,varchar,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+DoctorFixedAmtHistoryId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DoctorId,bigint,0
+DoctorPaymentHeaderId,bigint,0
+EndDate,date,0
+FromDate,date,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsPaymentFinalized,tinyint,0
+LastUpdatedTime,datetime,0
+PaidAmount,numeric,0
+UpdatedById,bigint,0

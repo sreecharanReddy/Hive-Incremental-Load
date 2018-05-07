@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+CheckListId,bigint,1
+CheckListName,varchar,0
+CheckListStatus,bit,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DisplayOrder,int,0
+HospitalId,bigint,0
+InstituteId,bigint,0
+IsActive,bit,0
+IsMandatory,tinyint,0
+IsTemporary,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

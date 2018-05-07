@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+WeekDayId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DayOrder,int,0
+DeleteComments,varchar,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0
+WeekDay,varchar,0

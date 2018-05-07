@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+ReservationModifyReasonId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+deleteComment,nchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+ModifiedById,bigint,0
+ReservationModifyReason,varchar,0
+UpdatedById,bigint,0

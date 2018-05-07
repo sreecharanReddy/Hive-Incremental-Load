@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+PatientOrientationId,bigint,1
+AdmissionId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,int,0
+IsExplained,int,0
+LastUpdatedTime,datetime,0
+OrientationId,bigint,0
+PatientId,bigint,0
+RegistrationNumber,varchar,0
+Remark,varchar,0
+UpdatedById,bigint,0

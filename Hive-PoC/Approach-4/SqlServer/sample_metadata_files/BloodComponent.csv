@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+BloodComponentId,bigint,1
+Abbreviation,varchar,0
+BloodComponent,varchar,0
+BloodComponentExpiry,int,0
+Comments,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+CrossMatch,bit,0
+deleteComment,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsExpired,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0
+Volume,int,0

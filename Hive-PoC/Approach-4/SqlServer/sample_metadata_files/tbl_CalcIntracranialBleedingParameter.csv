@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+CalcIntracranialBleedingParameterId,bigint,1
+HospitalId,bigint,0
+IntracranialBleedingParameterCode,varchar,0
+IntracranialBleedingParameterName,varchar,0
+IsActive,tinyint,0

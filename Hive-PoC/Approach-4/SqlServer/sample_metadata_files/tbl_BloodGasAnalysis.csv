@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+BloodGasAnalysisId,bigint,1
+BloodGasAnalysisCode,varchar,0
+BloodGasAnalysisDescription,varchar,0
+BloodGasAnalysisName,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+Mandatory,int,0
+ResultTypeId,bigint,0
+Unit,varchar,0
+UpdatedById,bigint,0

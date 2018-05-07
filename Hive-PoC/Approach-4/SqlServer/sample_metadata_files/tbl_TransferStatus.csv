@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+TransferStatusId,bigint,1
+HospitalId,bigint,0
+IsActive,bit,0
+TransferStatusCode,varchar,0
+TransferStatusDescription,varchar,0

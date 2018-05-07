@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+GlobalParameterHistoryId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+NewValue,varchar,0
+OldValue,varchar,0
+ParameterId,int,0

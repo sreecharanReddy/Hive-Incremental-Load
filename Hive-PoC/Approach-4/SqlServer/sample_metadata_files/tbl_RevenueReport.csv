@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+RevenueReportId,bigint,1
+Amount,numeric,0
+DepartmentName,varchar,0
+HospitalId,bigint,0
+IsOPRecord,tinyint,0
+IsOTRecord,tinyint,0
+PatientNetAmount,numeric,0
+ReportDate,date,0
+SectionName,varchar,0
+SponsorNetAmount,numeric,0
+Ward,varchar,0
+WardType,varchar,0

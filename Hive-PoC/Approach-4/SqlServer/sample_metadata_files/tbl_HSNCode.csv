@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+HSNCodeId,int,1
+HospitalId,bigint,0
+HSNCode,varchar,0
+HSNCodeDescription,varchar,0
+IsActive,tinyint,0

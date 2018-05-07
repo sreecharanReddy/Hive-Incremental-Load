@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+QueueMgmtArchiveId,bigint,1
+Count,bigint,0
+CounterId,int,0
+Date,date,0
+HospitalId,bigint,0
+QueueMgmtPurposeId,bigint,0

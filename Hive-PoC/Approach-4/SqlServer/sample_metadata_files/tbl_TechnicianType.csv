@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+TechnicianTypeId,tinyint,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+TechnicianType,varchar,0

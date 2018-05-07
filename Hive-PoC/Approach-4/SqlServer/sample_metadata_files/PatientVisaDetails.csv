@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+PatientVisaDetailsId,bigint,1
+AdmissionNumber,varchar,0
+BusinessAddress,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+EmailId,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+ResidenceAddress,varchar,0
+UpdatedById,bigint,0
+ValidUpto,date,0
+VisaNumber,varchar,0
+VisaTypeId,bigint,0

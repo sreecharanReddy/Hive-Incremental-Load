@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+ProductSupplierId,bigint,1
+Comments,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+LatestPrice,numeric,0
+MinPrice,numeric,0
+Price,numeric,0
+ProductId,bigint,0
+Quantity,int,0
+SupplierId,bigint,0
+UpdatedById,bigint,0
+ValidFromDate,date,0
+ValidToDate,date,0

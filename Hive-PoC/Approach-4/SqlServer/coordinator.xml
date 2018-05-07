@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coordinator-app xmlns="uri:oozie:coordinator:0.2" name="incremental_coordinator" frequency="${coord:minutes(mins)}" start="${startTime}" end="${endTime}" timezone="${timezone}">
+   <action>
+      <workflow>
+         <app-path>/user/sameer/attunity/incremental_workflow.xml</app-path>
+      </workflow>
+   </action>
+</coordinator-app>

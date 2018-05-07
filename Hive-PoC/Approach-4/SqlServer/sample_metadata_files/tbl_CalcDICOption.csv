@@ -1,0 +1,7 @@
+FieldName,DataType,IsPrimary
+CalcDICOptionId,bigint,1
+CalcDICParameterId,bigint,0
+DICOptionName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+Score,int,0

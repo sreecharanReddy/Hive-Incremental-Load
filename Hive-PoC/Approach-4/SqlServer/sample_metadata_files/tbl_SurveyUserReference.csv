@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+SurveyUserReferenceId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Reference,varchar,0
+ReferenceCode,varchar,0
+SurveyUserTypeId,bigint,0
+UpdatedById,bigint,0

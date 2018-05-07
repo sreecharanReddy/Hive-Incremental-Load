@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+PatientVenousBloodOxygenId,bigint,1
+AdmissionId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+CvO2,numeric,0
+Hgb,numeric,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+O2vSat,numeric,0
+PatientId,bigint,0
+PvO2,numeric,0
+RegistrationNumber,varchar,0
+ScoreCaptureDateTime,datetime,0
+UpdatedById,bigint,0

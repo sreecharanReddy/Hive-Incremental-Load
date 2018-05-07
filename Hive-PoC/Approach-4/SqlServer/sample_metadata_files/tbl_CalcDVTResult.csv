@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+CalcDVTResultId,int,1
+MaxValue,int,0
+MinValue,int,0
+Result,varchar,0

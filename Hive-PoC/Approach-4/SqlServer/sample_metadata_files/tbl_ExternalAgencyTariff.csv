@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+ExternalAgencyTariffId,int,1
+CreatedTime,datetime,0
+DepartmentId,bigint,0
+ExternalAgencyId,bigint,0
+ExternalAgencyTariff,numeric,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+SectionId,bigint,0
+ServiceId,bigint,0

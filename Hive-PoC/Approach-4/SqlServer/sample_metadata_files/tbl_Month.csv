@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+MonthId,int,1
+MonthNames,varchar,0
+MonthNo,int,0

@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+DischargePatientChecklistId,bigint,1
+ActionPerformedStatusId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DischargeChecklistId,bigint,0
+DischargeStatusId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsChecked,bit,0
+LastUpdatedTime,datetime,0
+PatientDischargeId,bigint,0
+UpdatedById,bigint,0

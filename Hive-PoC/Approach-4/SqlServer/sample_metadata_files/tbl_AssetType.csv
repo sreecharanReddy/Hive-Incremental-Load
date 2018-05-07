@@ -1,0 +1,9 @@
+FieldName,DataType,IsPrimary
+AssetTypeId,int,1
+AssetType,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalGroupId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

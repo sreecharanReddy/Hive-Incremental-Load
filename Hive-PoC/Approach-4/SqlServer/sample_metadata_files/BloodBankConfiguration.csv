@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+BloodBankConfigurationId,int,1
+AdditiveDays,int,0
+AuthorizationLevels,tinyint,0
+BloodUnitReservationPeriod,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+ExpiryDatesForBloodUnit,varchar,0
+FDALicenseNumber,varchar,0
+HasDonorServiceId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsCrossMatchingChargesRequired,tinyint,0
+LastUpdatedTime,datetime,0
+NoDonorServiceId,bigint,0
+UpdatedById,bigint,0

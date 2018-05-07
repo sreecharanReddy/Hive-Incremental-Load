@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+ProductSGTabMapId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+HTMLFileName,varchar,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+ProductSubGroupId,bigint,0
+TabName,varchar,0
+UpdatedById,bigint,0

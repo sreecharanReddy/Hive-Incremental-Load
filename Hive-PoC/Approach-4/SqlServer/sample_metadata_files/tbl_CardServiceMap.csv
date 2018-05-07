@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+CardServiceMapId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EffectiveEndDate,datetime,0
+EffectiveStartDate,datetime,0
+EntitlementId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsDefault,tinyint,0
+LastUpdatedTime,datetime,0
+ServiceId,bigint,0
+TimeUnitId,bigint,0
+UpdatedById,bigint,0
+Validity,int,0

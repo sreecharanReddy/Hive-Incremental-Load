@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+FrameShapeId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FrameGroup,varchar,0
+FrameShape,varchar,0
+FrameShapeCode,varchar,0
+HospitalId,bigint,0
+ImageName,varchar,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

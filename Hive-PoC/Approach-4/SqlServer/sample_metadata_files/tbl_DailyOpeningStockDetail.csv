@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+DailyOpeningStockDetailId,bigint,1
+BatchNumber,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DailyOpeningStockHeaderId,bigint,0
+HospitalId,bigint,0
+Stock,int,0

@@ -1,0 +1,8 @@
+FieldName,DataType,IsPrimary
+ParameterId,int,1
+DefaultValue,nvarchar,0
+Description,varchar,0
+Entity,varchar,0
+HospitalId,bigint,0
+IsEditable,tinyint,0
+ValueDatatype,varchar,0

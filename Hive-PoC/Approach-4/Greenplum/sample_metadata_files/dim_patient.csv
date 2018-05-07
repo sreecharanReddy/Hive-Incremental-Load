@@ -1,0 +1,20 @@
+aliasname,character varying,0
+bloodgroup,character varying,0
+booldgroupconfirmedby,character varying,0
+dob,date,0
+email,character varying,0
+firstname,character varying,0
+gender,character varying,0
+image,character varying,0
+isfamilyhead,bit,0
+lastmodifieddate,timestamp without time zone,0
+lastname,character varying,0
+maritalstatus,character varying,0
+middlename,character varying,0
+mobilenumber,character varying,0
+nationality,character varying,0
+patientid,bigint,0
+patientkey,integer,1
+residencenumber,character varying,0
+srcupdateddate,date,0
+titleid,bigint,0

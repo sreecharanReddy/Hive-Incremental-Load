@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+CalcDVTParameterId,bigint,1
+DVTParameterCode,varchar,0
+DVTParameterName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0

@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+PatientClassId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PatClassAbbr,varchar,0
+PatClassAppl,varchar,0
+PatientClassCode,varchar,0
+PatientClassGrade,numeric,0
+PatientClassName,varchar,0
+UpdatedById,bigint,0

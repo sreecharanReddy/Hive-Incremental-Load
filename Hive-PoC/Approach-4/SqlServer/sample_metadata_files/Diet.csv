@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+DietId,bigint,1
+Calories,bigint,0
+Carbohydrates,bigint,0
+cholestrol,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+DietCode,varchar,0
+DietName,varchar,0
+DietRemarks,varchar,0
+Fats,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+Proteins,bigint,0
+UpdatedById,bigint,0

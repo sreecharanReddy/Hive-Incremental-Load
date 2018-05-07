@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+CaseSheetTemplateParameterId,bigint,1
+CaseSheetTemplateId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Parameter,varchar,0
+UpdatedById,bigint,0
+Values,varchar,0

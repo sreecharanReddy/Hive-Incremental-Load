@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+DiscountId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+DiscountPercentage,int,0
+FollowupConsultationId,bigint,0
+FromDay,int,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+Limit,int,0
+ToDay,int,0
+UpdatedById,bigint,0

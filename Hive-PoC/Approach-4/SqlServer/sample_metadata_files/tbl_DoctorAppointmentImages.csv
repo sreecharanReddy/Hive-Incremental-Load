@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+AppointmentImageId,bigint,1
+AppointmentId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FullImageName,varchar,0
+HospitalId,bigint,0
+ImageDatetime,datetime,0
+ImageName,varchar,0
+ImageSequenceNumber,int,0
+Isactive,tinyint,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+UpdatedById,bigint,0

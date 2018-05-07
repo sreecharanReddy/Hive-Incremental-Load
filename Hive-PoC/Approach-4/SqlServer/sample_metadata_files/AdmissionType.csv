@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+AdmissionTypeId,bigint,1
+AdmissionType,varchar,0
+AdmissionTypeCode,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsAutoFileRequest,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

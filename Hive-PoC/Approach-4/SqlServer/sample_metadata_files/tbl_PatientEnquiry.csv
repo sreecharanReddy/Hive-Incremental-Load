@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+PatientEnquiryId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EmailAddress,varchar,0
+EnquiryDate,datetime,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsReplied,int,0
+LastUpdatedTime,datetime,0
+MobileNumber,varchar,0
+PatientEnquiryTypeId,int,0
+PatientId,bigint,0
+PatientName,varchar,0
+Query,varchar,0
+SubjectLine,varchar,0
+UpdatedById,bigint,0

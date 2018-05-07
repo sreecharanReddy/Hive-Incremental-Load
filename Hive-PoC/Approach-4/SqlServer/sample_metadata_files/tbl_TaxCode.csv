@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+TaxCodeId,bigint,1
+CGSTPercentage,numeric,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IGSTPercentage,numeric,0
+IsActive,tinyint,0
+IsInclusive,bit,0
+LastUpdatedTime,datetime,0
+SGSTPercentage,numeric,0
+TaxCode,varchar,0
+TaxCodeName,varchar,0
+TaxPercentage,numeric,0
+UpdatedById,bigint,0

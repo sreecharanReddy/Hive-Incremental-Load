@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+TriageComponentId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+Icon,varchar,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Sref,varchar,0
+TriageComponent,varchar,0
+UpdatedById,bigint,0
+ViewOrder,int,0

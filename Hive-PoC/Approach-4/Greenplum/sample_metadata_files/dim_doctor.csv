@@ -1,0 +1,33 @@
+address,character varying,0
+cityid,bigint,0
+countryid,bigint,0
+departmentid,bigint,0
+designationid,bigint,0
+digitalsignature,character varying,0
+displayname,character varying,0
+doctorid,bigint,0
+doctorkey,integer,1
+emailid,character varying,0
+employeeid,bigint,0
+experience,character varying,0
+firstname,character varying,0
+genderid,bigint,0
+isanaesthetist,bit,0
+isdiscountallowed,smallint,0
+issurgeon,bit,0
+joiningdate,date,0
+landmarkid,bigint,0
+lastmodifieddate,timestamp without time zone,0
+lastname,character varying,0
+middlename,character varying,0
+mobilenumber,character varying,0
+nationalityid,bigint,0
+officetelphone,character varying,0
+photo,character varying,0
+pincode,character varying,0
+qualificationid,bigint,0
+residencetelphone,character varying,0
+servicenumber,character varying,0
+srcupdateddate,date,0
+stateid,bigint,0
+userid,bigint,0

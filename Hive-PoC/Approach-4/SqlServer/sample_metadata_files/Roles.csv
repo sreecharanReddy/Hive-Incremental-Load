@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+RoleId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EndDate,datetime,0
+HospitalId,bigint,0
+IsActive,bit,0
+LandingDashboardId,bigint,0
+LastUpdatedTime,datetime,0
+RoleDescription,varchar,0
+RoleName,varchar,0
+StartDate,datetime,0
+UpdatedById,bigint,0

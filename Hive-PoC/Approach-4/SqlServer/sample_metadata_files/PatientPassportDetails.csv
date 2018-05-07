@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+PatientPassportDetailsId,bigint,1
+AdmissionNumber,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+IssueDate,date,0
+IssuedBy,varchar,0
+LastUpdatedTime,datetime,0
+Nationality,bigint,0
+PassportNumber,varchar,0
+PlaceOfIssue,varchar,0
+ResidentCountry,bigint,0
+UpdatedById,bigint,0
+ValidUpto,date,0

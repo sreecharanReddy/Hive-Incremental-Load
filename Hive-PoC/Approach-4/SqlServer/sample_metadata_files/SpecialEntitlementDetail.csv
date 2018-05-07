@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+SpecialEntitlementDetailId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsRequested,tinyint,0
+LastUpdatedTime,datetime,0
+PatientSponsorId,bigint,0
+PatientTypeId,bigint,0
+QuantityLimit,int,0
+ServiceId,bigint,0
+Tariff,numeric,0
+UpdatedById,bigint,0
+validFrom,date,0
+ValidTo,date,0

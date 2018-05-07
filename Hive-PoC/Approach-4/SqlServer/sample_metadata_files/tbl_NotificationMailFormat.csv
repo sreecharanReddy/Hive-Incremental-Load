@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+NotificationMailFormatId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+Description,varchar,0
+EmailText,text,0
+EventCodeId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsMessageDefined,tinyint,0
+LastUpdatedTime,datetime,0
+SMSText,varchar,0
+Subject,varchar,0
+UpdatedById,bigint,0

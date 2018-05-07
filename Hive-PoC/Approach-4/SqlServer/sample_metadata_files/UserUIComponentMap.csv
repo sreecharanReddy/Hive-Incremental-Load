@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+MapUserUIComponentId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EndDate,date,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsFavourite,tinyint,0
+LastUpdatedTime,datetime,0
+StartDate,date,0
+UIComponentId,bigint,0
+UpdatedById,bigint,0
+UserId,bigint,0
+ViewMode,tinyint,0

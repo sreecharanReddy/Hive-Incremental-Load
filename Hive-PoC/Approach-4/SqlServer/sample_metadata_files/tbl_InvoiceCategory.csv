@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+InvoiceCategoryId,tinyint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+InvoiceCategoryCode,varchar,0
+InvoiceCategoryName,varchar,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

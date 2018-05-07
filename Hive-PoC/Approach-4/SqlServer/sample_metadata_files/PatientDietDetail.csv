@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+PatientDietDetailId,bigint,1
+AppointmentId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DietId,bigint,0
+Duration,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PrimaryDoctorId,bigint,0
+Remark,varchar,0
+Units,varchar,0
+UpdatedById,bigint,0

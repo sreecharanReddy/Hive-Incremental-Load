@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+IPPatientDiagnosisId,bigint,1
+ActiveStatus,bit,0
+AdmissionId,bigint,0
+CreatedById,int,0
+CreatedTime,datetime,0
+DiagnosisId,bigint,0
+DiagnosisType,varchar,0
+DoctorId,bigint,0
+HospitalId,bigint,0
+ICDId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+RegistrationNumber,varchar,0
+Remarks,varchar,0
+UpdatedById,int,0

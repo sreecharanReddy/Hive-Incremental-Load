@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+ClaimMgmtAttachmentId,bigint,1
+AttachmentDate,date,0
+AttachmentName,varchar,0
+ClaimMgmtHeaderId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DocumentName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

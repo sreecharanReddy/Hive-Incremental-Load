@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+TriageExaminationId,bigint,1
+ActionType,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+Examination,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Options,varchar,0
+UpdatedById,bigint,0

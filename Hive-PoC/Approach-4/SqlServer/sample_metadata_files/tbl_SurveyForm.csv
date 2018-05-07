@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+SurveyFormId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+Instruction,varchar,0
+IsActive,tinyint,0
+IsAnonymousAllowed,int,0
+IsGroupDisplay,tinyint,0
+LastUpdatedTime,datetime,0
+SurveyCode,varchar,0
+SurveyName,varchar,0
+UpdatedById,bigint,0

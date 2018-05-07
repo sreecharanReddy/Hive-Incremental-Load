@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+MRDChecklistStatusId,bigint,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+Status,varchar,0
+StatusCode,varchar,0

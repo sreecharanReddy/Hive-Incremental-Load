@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+ResultInterpretationId,int,1
+BloodBankConfigurationId,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+FromValue,numeric,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsPositiveResult,tinyint,0
+LastUpdatedTime,datetime,0
+ResultInterpretationStatusId,int,0
+ToValue,numeric,0
+UpdatedById,bigint,0

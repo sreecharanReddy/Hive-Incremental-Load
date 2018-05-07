@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+ConsultationAuditId,bigint,1
+AppointmentId,bigint,0
+Json,text,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

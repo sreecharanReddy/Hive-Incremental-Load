@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+WardId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0
+WardDeptId,bigint,0
+WardDisplay,varchar,0
+WardDisplayOrder,int,0
+WardName,varchar,0
+WardTypeId,bigint,0

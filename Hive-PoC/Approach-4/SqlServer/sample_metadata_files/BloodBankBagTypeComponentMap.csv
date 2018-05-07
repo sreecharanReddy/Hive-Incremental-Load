@@ -1,0 +1,9 @@
+FieldName,DataType,IsPrimary
+BloodBankBagTypeComponentMapId,int,1
+BloodBankBagTypeId,int,0
+BloodComponentId,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

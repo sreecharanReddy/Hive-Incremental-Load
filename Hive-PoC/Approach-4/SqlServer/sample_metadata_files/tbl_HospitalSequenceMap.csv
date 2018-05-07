@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+HospitalSequenceMapId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+CurrentSequenceNumber,bigint,0
+HospitalGroupId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Prefix,varchar,0
+Seperator,varchar,0
+SequenceId,int,0
+SequenceStart,bigint,0
+Suffix,varchar,0
+UpdatedById,bigint,0

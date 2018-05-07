@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+PatientIntakeOutputId,bigint,1
+AdmissionId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IntakeOrOutput,varchar,0
+IntakeOutputNameId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+ObservationDatetime,datetime,0
+Quantity,numeric,0
+Remark,varchar,0
+RouteId,bigint,0
+Unit,varchar,0
+UpdatedById,bigint,0

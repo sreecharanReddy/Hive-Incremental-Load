@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+RoleGroupMapId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DashboardGroupId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsDefaultGroup,tinyint,0
+LastUpdatedTime,datetime,0
+RoleId,bigint,0
+UpdatedById,bigint,0

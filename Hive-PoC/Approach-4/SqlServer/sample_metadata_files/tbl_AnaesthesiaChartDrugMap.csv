@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+AnaesthesiaChartDrugMapId,bigint,1
+AnaesthesiaChartId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+ProductId,bigint,0
+UpdatedById,bigint,0

@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+LabTranReagentId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LabInvestigationId,bigint,0
+LabTransactionId,bigint,0
+LabUnitId,bigint,0
+LastUpdatedTime,datetime,0
+ProductId,bigint,0
+UpdatedById,bigint,0
+UsedQuantity,numeric,0

@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+SeverityId,bigint,1
+HospitalId,bigint,0
+IsActive,bit,0
+SeverityCode,varchar,0
+SeverityName,varchar,0

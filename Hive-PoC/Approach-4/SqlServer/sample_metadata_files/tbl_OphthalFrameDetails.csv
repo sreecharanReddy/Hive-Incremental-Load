@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+OphthalFrameDetailId,bigint,1
+AppointmentId,bigint,0
+AValue,varchar,0
+BValue,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DBLValue,varchar,0
+EDValue,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+OphthalDetailId,bigint,0
+PatientId,bigint,0
+PHValue,varchar,0
+SHValue,varchar,0
+UpdatedById,bigint,0

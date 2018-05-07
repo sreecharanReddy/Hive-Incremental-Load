@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+HospitalGroupId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+HospitalGroupCode,varchar,0
+HospitalGroupName,varchar,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+MaxLocationCount,int,0
+UpdatedById,bigint,0
+UserSuffix,varchar,0
+VersionNumber,varchar,0

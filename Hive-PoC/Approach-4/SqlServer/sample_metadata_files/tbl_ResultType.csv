@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+ResultTypeId,bigint,1
+HospitalId,bigint,0
+IsActive,bit,0
+ResultTypeName,varchar,0

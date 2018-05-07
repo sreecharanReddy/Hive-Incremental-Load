@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+MRDFileMovementStatusId,tinyint,1
+Description,varchar,0
+IsActive,tinyint,0
+MRDFileMovementStatus,varchar,0
+MRDFileMovementStatusCode,varchar,0

@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+MailAlertId,bigint,1
+AlertStatus,varchar,0
+AppointmentDate,date,0
+AppointmentId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+TransactionId,bigint,0
+UpdatedById,bigint,0

@@ -1,0 +1,3 @@
+FieldName,DataType,IsPrimary
+ClaimMgmtQueryStatusId,int,1
+QueryStatusName,varchar,0

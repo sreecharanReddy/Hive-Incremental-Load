@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+MRDRequestReasonId,tinyint,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+MRDRequestReason,varchar,0

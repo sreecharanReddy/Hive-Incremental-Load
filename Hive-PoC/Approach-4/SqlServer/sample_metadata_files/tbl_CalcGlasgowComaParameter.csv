@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+CalcGlasgowComaParameterId,bigint,1
+GlasgowComaParameterCode,varchar,0
+GlasgowComaParameterName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0

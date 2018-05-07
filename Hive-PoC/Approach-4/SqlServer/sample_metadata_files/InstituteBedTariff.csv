@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+InstituteBedTariffId,bigint,1
+Amount,numeric,0
+BedBillingClassId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EndDate,date,0
+HospitalId,bigint,0
+InstituteBillingClassMapId,bigint,0
+InstituteId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+StartDate,date,0
+UpdatedById,bigint,0

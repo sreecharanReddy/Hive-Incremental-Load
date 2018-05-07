@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+IPPatientVitalId,bigint,1
+AdmissionId,bigint,0
+CapturingDate,datetime,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+RegistrationNumber,varchar,0
+Remark,varchar,0
+TriageDetailId,bigint,0
+UpdatedById,bigint,0
+Value,varchar,0
+VitalSignGroupId,bigint,0
+VitalSignId,bigint,0

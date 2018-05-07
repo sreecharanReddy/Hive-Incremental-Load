@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+BloodBankDeferralTypeId,bigint,1
+BloodBankDeferralType,varchar,0
+BloodBankDeferralTypeCode,varchar,0
+IsActive,tinyint,0

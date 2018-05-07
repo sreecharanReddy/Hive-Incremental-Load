@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+ABORhGroupingRegisterId,tinyint,1
+BloodBankAuthorizationStatusId,bigint,0
+BloodBankCompReqHeaderId,int,0
+BloodGroupId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Remarks,varchar,0
+UpdatedById,bigint,0

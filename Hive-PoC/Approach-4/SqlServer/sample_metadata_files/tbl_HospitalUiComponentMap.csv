@@ -1,0 +1,5 @@
+FieldName,DataType,IsPrimary
+HospitalUiComponentMap,int,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+UIComponentId,bigint,0

@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+ABCCodeId,int,1
+ABCCode,varchar,0
+ABCCodeName,varchar,0

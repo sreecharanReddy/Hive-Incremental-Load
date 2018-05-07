@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+SuggestionValueMapId,bigint,1
+CaseSheetParameterValueId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+SuggestionGroupId,bigint,0
+SuggestionId,bigint,0
+UpdatedById,bigint,0

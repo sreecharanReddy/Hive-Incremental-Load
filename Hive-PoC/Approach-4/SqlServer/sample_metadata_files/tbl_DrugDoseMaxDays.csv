@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+DrugDoseMaxDaysId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DrugRequestTypeId,bigint,0
+DrugTypeId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MaxDays,int,0
+UpdatedById,bigint,0

@@ -1,0 +1,17 @@
+FieldName,DataType,IsPrimary
+BloodBankDonorDetailId,int,1
+BloodBankRhTypeId,int,0
+BloodGroupId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DOB,date,0
+FirstName,varchar,0
+GenderId,bigint,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsRareBloodGroupDonor,tinyint,0
+LastName,varchar,0
+LastUpdatedTime,datetime,0
+MiddleName,varchar,0
+TitleId,bigint,0
+UpdatedById,bigint,0

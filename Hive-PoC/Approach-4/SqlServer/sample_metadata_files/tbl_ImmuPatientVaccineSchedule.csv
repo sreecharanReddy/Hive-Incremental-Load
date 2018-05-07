@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+PatientVaccineScheduleId,int,1
+Age,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DueDate,date,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+UpdatedById,bigint,0
+VaccineId,tinyint,0
+VaccineScheduleHeaderId,tinyint,0

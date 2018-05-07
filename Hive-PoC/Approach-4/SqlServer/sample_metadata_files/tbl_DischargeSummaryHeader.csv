@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+DischargeSummaryHeaderId,bigint,1
+AdmissionId,bigint,0
+AdmissionNumber,varchar,0
+AuthorizingDoctorId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DischargeUnFreezeReasonId,bigint,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsSummaryFreezed,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

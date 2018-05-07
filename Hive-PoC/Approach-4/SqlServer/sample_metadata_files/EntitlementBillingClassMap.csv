@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+EntitlementBillingClassMapId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+EntitlementId,bigint,0
+HospitalId,bigint,0
+InstituteBillingClassMapId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+PatientClassId,bigint,0
+UpdatedById,bigint,0

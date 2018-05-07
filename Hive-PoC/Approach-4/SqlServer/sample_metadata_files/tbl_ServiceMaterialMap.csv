@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+ServiceMaterialMapId,int,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+IsDelete,tinyint,0
+LabSIUnitId,bigint,0
+LastUpdatedTime,datetime,0
+MaterialCount,int,0
+ProductId,bigint,0
+ProductSubGroupId,bigint,0
+ServiceId,bigint,0
+UpdatedById,bigint,0

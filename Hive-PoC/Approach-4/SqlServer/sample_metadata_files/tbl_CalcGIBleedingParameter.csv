@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+CalcGIBleedingParameterId,bigint,1
+GIBleedingParameterCode,varchar,0
+GIBleedingParameterName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0

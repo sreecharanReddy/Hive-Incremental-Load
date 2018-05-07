@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+DoctorPaymentHeaderId,bigint,1
+ActualInvoiceAmount,numeric,0
+balanceAmount,numeric,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DoctorId,bigint,0
+HospitalId,bigint,0
+InvoiceDate,date,0
+InvoiceNumber,varchar,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+ModifiedInvoiceAmount,numeric,0
+PaymentFromDate,date,0
+PaymentToDate,date,0
+UpdatedById,bigint,0

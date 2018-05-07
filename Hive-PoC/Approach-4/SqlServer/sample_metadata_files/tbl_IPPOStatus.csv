@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+IPPOStatusId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IPPOStatus,varchar,0
+IPPOStatusCode,varchar,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+QuarantineRecordId,bigint,1
+BloodBankAuthorizationStatusId,bigint,0
+BloodBankInventoryTypeId,bigint,0
+BloodBankSepCompDetailId,int,0
+BloodUnitDeferralReasonId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DonorRegistrationId,int,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+Remarks,varchar,0
+UpdatedById,bigint,0

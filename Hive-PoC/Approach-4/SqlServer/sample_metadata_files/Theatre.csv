@@ -1,0 +1,14 @@
+FieldName,DataType,IsPrimary
+TheatreId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+deleteComment,nchar,0
+FromTime,time,0
+HospitalId,bigint,0
+Interval,int,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+OperationTheatreId,bigint,0
+ToTime,time,0
+UpdatedById,bigint,0
+WeekDayID,bigint,0

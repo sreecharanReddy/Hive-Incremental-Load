@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+MaterialRequestAuditId,bigint,1
+AuthorizedById,bigint,0
+AuthorizedQuantity,numeric,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MaterialRequestDetailId,bigint,0
+ProductId,bigint,0
+RequestedById,bigint,0
+UpdatedById,bigint,0

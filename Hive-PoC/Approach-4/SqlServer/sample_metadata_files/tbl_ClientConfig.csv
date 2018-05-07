@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+ClientConfigId,bigint,1
+DefaultValue,varchar,0
+Entity,varchar,0

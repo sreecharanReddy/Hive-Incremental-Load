@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+BloodBankCompStatusId,tinyint,1
+CompatibilityStatus,varchar,0
+CompatibilityStatusCode,varchar,0

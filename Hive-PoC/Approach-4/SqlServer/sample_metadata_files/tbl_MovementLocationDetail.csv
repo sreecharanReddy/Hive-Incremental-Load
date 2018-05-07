@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+MovementLocationDetailId,int,1
+CheckInTime,datetime,0
+CheckOutTime,datetime,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MovementLocationHeaderId,int,0
+ReasonId,int,0
+RejectRemarks,varchar,0
+RequestingLocationId,int,0
+RequestRemarks,varchar,0
+RevertTime,datetime,0
+UpdatedById,bigint,0

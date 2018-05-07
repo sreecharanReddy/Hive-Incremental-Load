@@ -1,0 +1,11 @@
+FieldName,DataType,IsPrimary
+BedGroupId,bigint,1
+BedGroupCode,char,0
+BedGroupDescription,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0

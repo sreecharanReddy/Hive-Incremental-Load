@@ -1,0 +1,3 @@
+FieldName,DataType,IsPrimary
+DrugTypeId,bigint,1
+DrugTypeName,varchar,0

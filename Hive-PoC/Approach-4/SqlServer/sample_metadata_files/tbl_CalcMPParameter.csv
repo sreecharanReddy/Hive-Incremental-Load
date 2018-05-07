@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+CalcMPParameterId,bigint,1
+HospitalId,bigint,0
+IsActive,tinyint,0
+MPParameterCode,varchar,0
+MPParameterName,varchar,0

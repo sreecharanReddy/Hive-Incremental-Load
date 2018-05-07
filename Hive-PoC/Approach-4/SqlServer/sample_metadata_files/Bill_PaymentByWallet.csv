@@ -1,0 +1,15 @@
+FieldName,DataType,IsPrimary
+PaymentByWalletId,bigint,1
+Amount,numeric,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+PayersContact,varchar,0
+PayersName,varchar,0
+ReceiptId,bigint,0
+ReferenceNumber,varchar,0
+Remarks,varchar,0
+UpdatedById,bigint,0
+WalletTypeId,bigint,0

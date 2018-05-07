@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+ApprovalReasonId,bigint,1
+ApprovalReason,varchar,0
+ApprovalReasonCode,varchar,0

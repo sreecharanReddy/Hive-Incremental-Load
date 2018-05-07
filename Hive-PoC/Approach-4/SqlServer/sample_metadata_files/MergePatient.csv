@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+MergePatientId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,bit,0
+IsConverted,bit,0
+LastUpdatedTime,datetime,0
+MergedRegistrationNumber,varchar,0
+MergedTo,bigint,0
+PatientId,bigint,0
+RegistrationNumber,varchar,0
+UpdatedById,bigint,0

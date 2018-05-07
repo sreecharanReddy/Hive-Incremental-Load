@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+ProductSubGroupId,bigint,1
+AccountCode,varchar,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+ProductGroupId,bigint,0
+ProductSubGroupCode,varchar,0
+ProductSubGroupName,varchar,0
+SectionId,bigint,0
+UpdatedById,bigint,0

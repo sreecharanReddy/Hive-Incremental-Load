@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+UOMId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+UOMCode,varchar,0
+UOMName,varchar,0
+UpdatedById,bigint,0

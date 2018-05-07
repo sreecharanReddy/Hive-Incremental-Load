@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+BloodBankDonorContactDetailId,int,1
+BloodBankDonorRegistrationId,int,0
+CityId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+Email,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+MobileNumber,varchar,0
+PlaceId,bigint,0
+PresentAddress,varchar,0
+TelephoneNumber,varchar,0
+UpdatedById,bigint,0
+Zipcode,varchar,0

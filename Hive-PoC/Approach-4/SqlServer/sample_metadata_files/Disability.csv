@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+DisabilityId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComment,varchar,0
+Description,varchar,0
+GroupId,int,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+Name,varchar,0
+UpdatedById,bigint,0

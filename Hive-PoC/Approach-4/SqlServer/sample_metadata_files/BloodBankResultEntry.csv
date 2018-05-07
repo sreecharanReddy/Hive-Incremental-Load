@@ -1,0 +1,16 @@
+FieldName,DataType,IsPrimary
+BloodBankResultEntryId,tinyint,1
+After37DegreeMajorValueId,tinyint,0
+After37DegreeMinorValueId,tinyint,0
+Before37DegreeMajorValueId,tinyint,0
+Before37DegreeMinorValueId,tinyint,0
+BloodBankCrossMatchDetailId,int,0
+CheckCellsValueId,tinyint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+RoomTempMajorValueId,tinyint,0
+RoomTempMinorValueId,tinyint,0
+UpdatedById,bigint,0

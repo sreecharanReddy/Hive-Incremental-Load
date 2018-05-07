@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+OTTimeTypeId,bigint,1
+HospitalId,bigint,0
+IsActive,bit,0
+OTTimeTypeCode,varchar,0
+OTTimeTypeDescription,varchar,0

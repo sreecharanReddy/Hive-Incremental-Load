@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+DashboardComponentTypeId,bigint,1
+ComponentType,varchar,0
+ComponentTypeCode,varchar,0
+Icon,varchar,0
+IsActive,tinyint,0

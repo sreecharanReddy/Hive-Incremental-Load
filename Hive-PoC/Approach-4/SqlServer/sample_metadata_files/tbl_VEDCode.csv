@@ -1,0 +1,4 @@
+FieldName,DataType,IsPrimary
+VEDCodeId,int,1
+VEDCode,varchar,0
+VEDCodeName,varchar,0

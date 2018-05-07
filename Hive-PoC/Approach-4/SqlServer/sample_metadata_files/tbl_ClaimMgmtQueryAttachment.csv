@@ -1,0 +1,13 @@
+FieldName,DataType,IsPrimary
+ClaimMgmtQueryAttachmentId,bigint,1
+ClaimMgmtCompanyQueryId,bigint,0
+ClaimMgmtQueryStatusId,int,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DocumentName,varchar,0
+HospitalId,bigint,0
+IsActive,tinyint,0
+LastUpdatedTime,datetime,0
+QueryAttachmentDate,date,0
+QueryAttachmentName,varchar,0
+UpdatedById,bigint,0

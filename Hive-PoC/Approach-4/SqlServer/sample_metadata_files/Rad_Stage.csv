@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+Rad_StageId,bigint,1
+CreatedById,bigint,0
+CreatedTime,datetime,0
+DeleteComments,varchar,0
+HospitalId,bigint,0
+IsActive,bit,0
+LastUpdatedTime,datetime,0
+RadStageCode,varchar,0
+StageName,varchar,0
+UpdatedById,bigint,0
+ViewOrder,int,0

@@ -1,0 +1,12 @@
+FieldName,DataType,IsPrimary
+PatientClinicalDetailId,bigint,1
+BloodGroupId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+Height,numeric,0
+HospitalId,bigint,0
+IsActive,int,0
+LastUpdatedTime,datetime,0
+PatientId,bigint,0
+UpdatedById,bigint,0
+Weight,numeric,0

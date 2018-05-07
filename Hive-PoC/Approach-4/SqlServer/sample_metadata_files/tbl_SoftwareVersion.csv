@@ -1,0 +1,6 @@
+FieldName,DataType,IsPrimary
+SoftwareVersionId,int,1
+HospitalId,bigint,0
+SoftwareVersion,varchar,0
+SoftwareVersionCode,varchar,0
+SoftwareVersionUpdateDate,datetime,0

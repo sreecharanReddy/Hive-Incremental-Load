@@ -1,0 +1,10 @@
+FieldName,DataType,IsPrimary
+UserChatGroupMapId,bigint,1
+ChatGroupId,bigint,0
+CreatedById,bigint,0
+CreatedTime,datetime,0
+IsActive,tinyint,0
+IsAdmin,tinyint,0
+LastUpdatedTime,datetime,0
+UpdatedById,bigint,0
+UserId,bigint,0
